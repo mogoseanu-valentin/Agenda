@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AgendaElectronica</string>
+    <string name="welcome_title">Bine ati venit!</string>
+    <string name="user_label">Utilizator:</string>
+    <string name="pass_label">Parola:"</string>
+    <string name="login_button_label">Logare!</string>
+    <string name="register_button_label">Inregistrare!</string>
+    <string name="welcome_title_1">Inregistrare!</string>
+    <string name="email_label">E-mail:</string>
+    <string name="back_label">Inapoi la logare</string>
+    <string name="title_activity_main">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="agenda">Agenda</string>
+    <string name="calendar">Calendar</string>
+    <string name="calculator">Calculator</string>
+    <string name="convertor">Convertor</string>
+    <string name="alarma">Alarma</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="hello">Hello</string>
+    <string name="agenda_electronica">Agenda Electronica</string>
+    <string name="alex_v_mogoseanu">Alex V. Mogoseanu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alege_o_imagine">Alege o imagine</string>
+    <string name="sterge_contact">Sterge contact</string>
+    <string name="nume">Nume</string>
+    <string name="adresa">Adresa</string>
+    <string name="salveaza_contact">Salveaza contact</string>
+    <string name="set_alarm">Set Alarm</string>
+</resources>
